@@ -1,13 +1,13 @@
 # Mahdi Mirhoseini 
 
-### Oceanography, Optics, Remote Sensing, Earth Systems, Scientific Computing
+### Deep Learning Eng, Geo-AI, Remote Sensing, Earth observation,Big Data Engineering
 
 ![ORCID](https://orcid.org/0000-0002-0454-8626)
 ![Google Scholar](https://scholar.google.com/citations?user=I46BmaIAAAAJ&hl=en)
 ![ResearchGate](https://www.researchgate.net/profile/Seyed-Mahdi-Mirhoseini-Nejad)
 
 ## Area of Experties 
-Data mining, Predictive modeling, Statistics, Advanced analytical techniques, Machine Learning, Classification,Hyper-spectral Image processing, Anomaly Detection, Geo-AI, Deep Learning, Big Data Engineering
+ Machine Learning, Data mining, Predictive modeling, Statistics, Advanced analytical techniques, Classification,Hyper-spectral Image processing, Anomaly Detection, Geo-AI, Deep Learning, Big Data Engineering
 Clustering, Time series analysis, Optimization, Python, Jupyter, Keras TensorFlow
 
 ## Short Biography
