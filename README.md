@@ -2,9 +2,9 @@
 
 ### Deep Learning Eng, Geo-AI, Remote Sensing, Earth observation,Big Data Engineering
 
-![ORCID](https://orcid.org/0000-0002-0454-8626)
-![Google Scholar](https://scholar.google.com/citations?user=I46BmaIAAAAJ&hl=en)
-![ResearchGate](https://www.researchgate.net/profile/Seyed-Mahdi-Mirhoseini-Nejad)
+[![ORCID](https://img.shields.io/badge/ORCID-green)](https://orcid.org/0000-0002-0454-8626)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-red)](https://scholar.google.com/citations?user=I46BmaIAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Seyed-Mahdi-Mirhoseini-Nejad)
 
 ## Area of Experties 
  Machine Learning, Data mining, Predictive modeling, Statistics, Advanced analytical techniques, Classification,Hyper-spectral Image processing, Anomaly Detection, Geo-AI, Deep Learning, Big Data Engineering
