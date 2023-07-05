@@ -19,5 +19,3 @@ My achievements include publishing a paper in IEEE JSTARS and preparing a journa
 Feel free to check out my work and get in touch!
 
 ![iimahdii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iimahdii&show_icons=true&theme=radical)
-
--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iimahdii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
