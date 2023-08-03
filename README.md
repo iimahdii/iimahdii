@@ -14,7 +14,7 @@ Clustering, Time series analysis, Optimization, Python, Jupyter, Keras TensorFlo
 
 I'm an AI & Deep Learning Engineer with extensive experience in research and development. From 2019 to 2023, I worked on various cutting-edge Deep Learning Regression Models such as 3DCNN, Conv-LSTM, RNN, and others. My work included extracting raw time series Multi-Spectral MODIS satellite images over 1800 US cities using Python, applying masking techniques, and dimensionality reduction.
 
-My achievements include publishing a paper in IEEE JSTARS and preparing a journal manuscript for proceedings. I've also collaborated with the Department of Geoinformatics at the University of Szeged, where I developed a novel deep learning architecture (WA-CNN) for optimizing crop classification.
+My achievements include publishing two paper in IEEE JSTAR. I've also collaborated with the Department of Geoinformatics at the University of Szeged, where I developed a novel deep learning architecture (WA-CNN) for optimizing crop classification.
 
 Feel free to check out my work and get in touch!
 
