@@ -4,7 +4,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-green)](https://orcid.org/0000-0002-0454-8626)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-red)](https://scholar.google.com/citations?user=I46BmaIAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.researchgate.net/profile/Seyed-Mahdi-Mirhoseini-Nejad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.researchgate.net/profile/Seyed-Mahdi-Mirhoseini-Nejad)
 
 ## Area of Experties 
  Machine Learning, Data mining, Predictive modeling, Statistics, Advanced analytical techniques, Classification,Hyper-spectral Image processing, Anomaly Detection, Geo-AI, Deep Learning, Big Data Engineering
