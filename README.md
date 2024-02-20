@@ -14,4 +14,4 @@ Clustering, Time series analysis, Optimization, Python, Jupyter, Keras TensorFlo
 
 Results-driven AI \& Deep Learning Engineer with a strong track record in machine learning,  optimization, remote sensing and geo-informatics. Over 5 years of experience at the Remote Sensing Laboratory, where I conducted extensive data preprocessing and developed innovative Deep Learning Regression and classification Models, earning publications in prestigious journals like IEEE. Proficient in Azure-based machine learning and cloud computing, I'm adept at harnessing cutting-edge technology for impactful research in Earth observation and beyond.
 
-Download his [Resume]([https://www.linkedin.com/in/mahdi-mirhoseini/](https://drive.google.com/file/d/1jrzWsrOgZMRC5yDqC6-J5Zw4nceoNnvP/view?usp=sharing)https://drive.google.com/file/d/1jrzWsrOgZMRC5yDqC6-J5Zw4nceoNnvP/view?usp=sharing)
+Download his [Resume](https://drive.google.com/file/d/1jrzWsrOgZMRC5yDqC6-J5Zw4nceoNnvP/view?usp=sharing)
